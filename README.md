@@ -1,6 +1,5 @@
 # ts-pkg-sample
-Typescipt package sample
+Typescipt package sample. <br>
 
-#### Notes
-Only files specified in `"files:"` property of `package.json` will be included in the published package.
-In this case only the `dist` folder will be included. (`README.md` and `package.json` are added by default).
+Created following this tutorial: <br>
+https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c
